@@ -1,4 +1,4 @@
-package coom.solidprinciple.isp.bad;
+package com.solidprinciple.isp.bad;
 
 public interface Machine {
 
